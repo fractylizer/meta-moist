@@ -95,4 +95,5 @@ const pages = {
   "le-bob":{title:"Le Bob"},
   "lebob":{title:"Lebob", redirect:"le-bob"},
   "je-suis-le-bob":{title:"Je suis le Bob", redirect:"le-bob"},
+  "moist-debate":{title:"Moist Debate"},
 };
