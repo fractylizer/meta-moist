@@ -14,6 +14,12 @@ if (pageParam && pageParam.length>0) {
   }
 }
 
+const pageFunctions = {
+  pages:()=>{
+    return Object.keys(pages).reduce((count, key) =>  count+(!("redirect" in pages[key])), 0);
+  }
+}
+
 async function fileExists(url) {
   try {
     const response = await fetch(url,{method:'HEAD'});
@@ -72,6 +78,8 @@ function format(input) {
         <span class="image_caption">${caption}</span>
       </div>
     `;
+  }).replace(/\[f\[([^\]]+)\]f\]/g, (m, text) => {
+    return pageFunctions[text]() || "";
   })
 }
 

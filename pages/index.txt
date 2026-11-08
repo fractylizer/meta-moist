@@ -1,2 +1,2 @@
 <p>Here you can learn about all the best aspects of the [[dashnet-forums-discord-server|DashNet Forums Discord server]], and gain a greater understanding of [[meta-moist|Meta Moist]]. You might want to start by reading how [[the-statue-made-me-fry|the statue made me fry]], or how [[peanut-butter-snail-snack|a snack can ruin your life]].</p>
-<p>If you'd like to contribute to this site, create a pull request at <a href="https://github.com/fractylizer/meta-moist">the GitHub repository</a>.</p>
+<p>There are currently [f[pages]f] pages on this site, including this one. If you'd like to contribute to this site, create a pull request at <a href="https://github.com/fractylizer/meta-moist">the GitHub repository</a>.</p>
