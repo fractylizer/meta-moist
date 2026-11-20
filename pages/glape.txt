@@ -1,2 +1,2 @@
 [img[images/misc/glape.png|The glape emote.]img]
-<p>glape is a custom emote commonly used my [[foxgirlmaki|Maki]], and less commonly by other members of [[dashnet-forums-discord-server|DashNet Forums]]. It is used to represent a feeling of being scared, as the emote features a scared cat. It is also occasionally remixed into other emotes, such as "grape", playing on the rhyme with glape.
+<p><strong>glape</strong> is a custom emote commonly used by [[foxgirlmaki|Maki]], and less commonly by other members of [[dashnet-forums-discord-server|DashNet Forums]]. It is used to represent a feeling of being scared, as the emote features a scared cat. It is also occasionally remixed into other emotes, such as "grape", playing on the rhyme with glape.

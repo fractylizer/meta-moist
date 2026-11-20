@@ -1,2 +1,2 @@
 [img[images/misc/igm.png|The Idle Game Maker homepage.]img]
-<p><strong>Idle Game Maker</strong> (often abbreviated as <strong>IGM</strong>) is a website that lets users create idle games by writing a simple text file. A prototype version was released in 2013, and the current version was released officially in 2017.</p>
+<p><strong><cite>Idle Game Maker</cite></strong> (often abbreviated as <strong>IGM</strong>) is a website that lets users create idle games by writing a simple text file. A prototype version was released in 2013, and the current version was released officially in 2017.</p>

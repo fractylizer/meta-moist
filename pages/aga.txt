@@ -1,2 +1,2 @@
 [img[images/misc/aga.png|The aga emote.]img]
-<p> aga is a custom emote commonly used my [[foxgirlmaki|Maki]], and less commonly by other members of [[dashnet-forums-discord-server|DashNet Forums]]. It is used to represent a feeling of "smiling through the pain".
+<p><strong>aga</strong> is a custom emote commonly used by [[foxgirlmaki|Maki]], and less commonly by other members of [[dashnet-forums-discord-server|DashNet Forums]]. It is used to represent a feeling of "smiling through the pain".

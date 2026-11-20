@@ -1,4 +1,4 @@
-<p>Snake eyes is a roll of two dice where each die has a value of 1. Alternatively, it can refer to the eyes of a snake. You could also call them [[snail|snail]] eyes, since snakes and snails are both slithery animals whose name has five letters and starts with "sna". Unfortunately, if you do this, no one will know what you mean.</p>
+<p><strong>Snake eyes</strong> is a roll of two dice where each die has a value of 1. Alternatively, it can refer to the eyes of a snake. You could also call them [[snail|snail]] eyes, since snakes and snails are both slithery animals whose name has five letters and starts with "sna". Unfortunately, if you do this, no one will know what you mean.</p>
 <h2>In popular culture</h2>
 <p>Snake Eyes is the name of a badge in [[rngdle|RNGdle]]. It is given to numbers with two ones.</p>
 <p>If you roll snake eyes in the board game Monopoly, you get to roll again out of pity for your shitty roll.</p>
